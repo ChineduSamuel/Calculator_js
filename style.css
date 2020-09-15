@@ -95,7 +95,7 @@ button:nth-child(20){
         height: 92vh;
         align-items: center;
         justify-content: center;
-        flex-direction: column;
+        float: left;
     }
     #calculator #keyboard{
         width: 100%;
@@ -108,7 +108,7 @@ button:nth-child(20){
         width: 100%;
         height: 92vh;
         align-items: center;
-        justify-content: center;
+        float: left;
         
     }
     #calculator  {
@@ -116,7 +116,7 @@ button:nth-child(20){
         height: 92vh;
         align-items: center;
         justify-content: center;
-        flex-direction: column;
+       float: left;;
     }
     #calculator #keyboard{
         width: 100%;
