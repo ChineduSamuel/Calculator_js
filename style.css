@@ -100,3 +100,17 @@ button:nth-child(20){
     }
    
 }
+@media screen and (max-width: 320px){
+    #container {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    #calculator  {
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
