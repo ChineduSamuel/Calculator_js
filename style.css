@@ -3,7 +3,7 @@ body{
     background-color: rgb(8, 2, 41)
 }
 #container{
-    width: 60%;
+    width: 65%;
     height: 60vh;
     background-image: linear-gradient(rgba(o,o,0,o.3), rgba(0,0,0,0.3)), url('calc.jpg'); 
     margin: 20px auto;
